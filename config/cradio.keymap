@@ -28,6 +28,107 @@
             key-positions = <32 3>;
             bindings = <&to 3>;
         };
+        combo_1 {
+            timeout-ms = <50>;
+            key-positions = <33 0>;
+            bindings = <&kp N1>;
+        };
+        combo_2 {
+            timeout-ms = <50>;
+            key-positions = <33 1>;
+            bindings = <&kp N2>;
+        };
+        combo_3 {
+            timeout-ms = <50>;
+            key-positions = <33 2>;
+            bindings = <&kp N3>;
+        };
+        combo_4 {
+            timeout-ms = <50>;
+            key-positions = <33 3>;
+            bindings = <&kp N4>;
+        };
+        combo_5 {
+            timeout-ms = <50>;
+            key-positions = <33 4>;
+            bindings = <&kp N5>;
+        };
+        combo_6 {
+            timeout-ms = <50>;
+            key-positions = <33 5>;
+            bindings = <&kp N6>;
+        };
+        combo_7 {
+            timeout-ms = <50>;
+            key-positions = <33 6>;
+            bindings = <&kp N7>;
+        };
+        combo_8 {
+            timeout-ms = <50>;
+            key-positions = <33 7>;
+            bindings = <&kp N8>;
+        };
+        combo_9 {
+            timeout-ms = <50>;
+            key-positions = <33 8>;
+            bindings = <&kp N9>;
+        };
+        combo_0 {
+            timeout-ms = <50>;
+            key-positions = <33 9>;
+            bindings = <&kp N0>;
+        };
+
+        combo_desktop_1 {
+            timeout-ms = <50>;
+            key-positions = <32 5>;
+            bindings = <&kp LG(N1)>;
+        };
+        combo_desktop_2 {
+            timeout-ms = <50>;
+            key-positions = <32 6>;
+            bindings = <&kp LG(N2)>;
+        };
+        combo_desktop_3 {
+            timeout-ms = <50>;
+            key-positions = <32 7>;
+            bindings = <&kp LG(N3)>;
+        };
+        combo_desktop_4 {
+            timeout-ms = <50>;
+            key-positions = <32 8>;
+            bindings = <&kp LG(N4)>;
+        };
+        combo_desktop_5 {
+            timeout-ms = <50>;
+            key-positions = <32 9>;
+            bindings = <&kp LG(N5)>;
+        };
+        combo_desktop_6 {
+            timeout-ms = <50>;
+            key-positions = <32 15>;
+            bindings = <&kp LG(N6)>;
+        };
+        combo_desktop_7 {
+            timeout-ms = <50>;
+            key-positions = <32 16>;
+            bindings = <&kp LG(N7)>;
+        };
+        combo_desktop_8 {
+            timeout-ms = <50>;
+            key-positions = <32 17>;
+            bindings = <&kp LG(N8)>;
+        };
+        combo_desktop_9 {
+            timeout-ms = <50>;
+            key-positions = <32 18>;
+            bindings = <&kp LG(N9)>;
+        };
+        combo_desktop_10 {
+            timeout-ms = <50>;
+            key-positions = <32 19>;
+            bindings = <&kp LG(N0)>;
+        };
         combo_backspace {
             timeout-ms = <50>;
             key-positions = <5 6>;
